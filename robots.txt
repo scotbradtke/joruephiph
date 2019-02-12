@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tiekoag.sharedworlds.info/sitemap.xml
